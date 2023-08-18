@@ -1,0 +1,11 @@
+Package: APMA3150
+Type: Package
+Title: Class Datasets (APMA 3150)
+Version: 0.1.1
+Author: Heze Chen
+Maintainer: Heze Chen <hc9xc@virginia.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
